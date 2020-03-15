@@ -15,5 +15,11 @@ CRUD usuarios, Login
     -php artisan  migrate:fresh --seed
     
   # -ENTRAR AL SISTEMA
+  -entrar a la terminal , ingresar a la carpeta donde esta alojado el proyexto ejemplo 'cd var/www/html/examen'
+  -ejecutar el comando: php artisan serve
+  -entrar al navegador con al url que mostro la terminal
+   Laravel development server started: <http://127.0.0.1:8000>
+
+login de la app:
   usuario: prueba@correo.com
   pass: 123
